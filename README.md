@@ -7,10 +7,11 @@ i used next js frame word and tailwind
 sorry about nameing in project :)))
 anyone can use my project and change one or two components if needed
 
-![Screenshot 2024-09-21 170356](public/Screenshot 2024-09-21 170340.jpg)
-![Screenshot 2024-09-21 170340](public/Screenshot 2024-09-21 170409.jpg)
-![Screenshot 2024-09-21 170409](public/Screenshot 2024-09-21 170356.jpg)
-![Screenshot 2024-09-21 170616](public/Screenshot 2024-09-21 170616.jpg)
+![Screenshot 2024-09-21 170356](Screenshot 2024-09-21 170356.jpg)
+![Screenshot 2024-09-21 170340](Screenshot 2024-09-21 170340.jpg)
+![Screenshot 2024-09-21 170409](Screenshot 2024-09-21 170409.jpg)
+![Screenshot 2024-09-21 170616](Screenshot 2024-09-21 170616.jpg)
+
 but footer is not complete
 
 Remember you must change properties such as image src and text ...
